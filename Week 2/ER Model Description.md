@@ -1,5 +1,5 @@
 # Description
-Need to add this
+This ER model represents an integrated database design for World Bank datasets, combining data from World Development Indicators, Global Financial Development, and Enterprise Surveys. The model consists of a central Country entity connected to three main indicator tables: Development_Indicators capturing macroeconomic and social metrics, Financial_Indicators storing banking and financial market data, and Enterprise_Indicators containing business environment and firm-level statistics. Each indicator table is linked to the Country entity through a one-to-many relationship using Country_Code as the foreign key, and uses Record_ID as a surrogate primary key for unique identification of each annual country observation. This design enables efficient querying of different types of indicators while maintaining data integrity and facilitating cross-domain analysis of country-level economic, financial, and business environment characteristics over time.
 
 # Entities:
 ### 1. Country:
