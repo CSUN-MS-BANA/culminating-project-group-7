@@ -13,8 +13,8 @@
 | **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
 |-------------------|-------------------|------------------|-----------------|
 |Vishnu  | 30  | Created ERD Model, Created tables in DB sqlite browseer, Populated the tables with collected data, Retrieved relevant data using sql scripts, Weekly Progrss Report, and finally GitHub Submission | Making sure that I have downloaded all the relevant data for the Entity attributes, Uploading the collected csv files into the tables created.  |
-| Manogna |Rithvik | Week 2's Frustation Report |  |
-|Sachi| Data Collection extraction|
+| Manogna,Rithvik| || Week 2's Frustation Report |  |
+|Sachi|||Data Collection|
 
 
 ---
