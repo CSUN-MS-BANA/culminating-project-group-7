@@ -14,7 +14,7 @@
 |-------------------|-------------------|------------------|-----------------|
 |Vishnu  | 30  | Created ERD Model, Created tables in DB sqlite browseer, Populated the tables with collected data, Retrieved relevant data using sql scripts, Weekly Progrss Report, and finally GitHub Submission | Making sure that I have downloaded all the relevant data for the Entity attributes, Uploading the collected csv files into the tables created.  |
 | Manogna,  |Week 2's Frustation Report|  |
-|Sachi|worked on downloading and understanding the dataset,contributed to the frustration report,defined the entity relationship model|
+|Sachi||worked on downloading and understanding the dataset,contributed to the frustration report,defined the entity relationship model|
 |Rithvik| |worked on SQL implementation and frustration report,and data collection|
 
 ---
