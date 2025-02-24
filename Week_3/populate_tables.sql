@@ -1,0 +1,2 @@
+INSERT INTO Countries (Name, Region, IncomeLevel) VALUES ('Country A', 'Region 1', 'High');
+INSERT INTO EconomicIndicators (CountryID, GDP, InflationRate, TradeBalance, FDI, GovernmentSpending) VALUES (1, 1000, 2.5, 100, 200, 300);

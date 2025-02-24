@@ -1,0 +1,1501 @@
+country_name,country_code,series_name,series_code,year,value
+United States,USA,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2021,1
+United States,USA,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2021,1
+United States,USA,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2021,1
+United States,USA,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2021,1
+United States,USA,Business process,SPI.D5.2.10.GSBP,2021,1
+United States,USA,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2021,1
+United States,USA,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2021,1
+United States,USA,Central government accounting status,SPI.D5.2.7.CGOV,2021,1
+United States,USA,Classification of household consumption,SPI.D5.2.5.HOUS,2021,1
+United States,USA,Classification of national industry,SPI.D5.2.3.CNIN,2021,1
+United States,USA,Classification of status of employment,SPI.D5.2.6.EMPL,2021,1
+United States,USA,Compilation of government finance statistics,SPI.D5.2.8.FINA,2021,1
+United States,USA,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2021,1
+United States,USA,CPI base year,SPI.D5.2.4.CPIBY,2021,1
+United States,USA,CRVS (WDI),SPI.D4.2.3.CRVS,2021,1
+United States,USA,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2021,1
+United States,USA,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2021,1
+United States,USA,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2021,0.781
+United States,USA,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2021,0.717
+United States,USA,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2021,0.883
+United States,USA,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2021,0.555
+United States,USA,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2021,0.933
+United States,USA,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2021,0.819
+United States,USA,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2021,1
+United States,USA,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2021,0.855833333333333
+United States,USA,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2021,0.861166666666667
+United States,USA,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2021,0.95
+United States,USA,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2021,0.775
+United States,USA,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2021,1
+United States,USA,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2021,1
+United States,USA,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2021,1
+United States,USA,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2021,0.404
+United States,USA,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2021,1
+United States,USA,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2021,1
+United States,USA,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2021,1
+United States,USA,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2021,1
+United States,USA,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2021,0.404
+United States,USA,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2021,1
+United States,USA,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2021,1
+United States,USA,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2021,0.8
+United States,USA,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2021,0.8
+United States,USA,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2021,1
+United States,USA,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2021,0.9
+United States,USA,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2021,0.8
+United States,USA,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2021,0.75
+United States,USA,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2021,0.9
+United States,USA,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2021,0.96
+United States,USA,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2021,0.6
+United States,USA,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2021,0.8
+United States,USA,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2021,0.875
+United States,USA,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2021,0.667
+United States,USA,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2021,1
+United States,USA,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2021,0.9
+United States,USA,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2021,1
+United States,USA,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2021,1
+United States,USA,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2021,1
+United States,USA,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2021,1
+United States,USA,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2021,1
+United States,USA,NADA metadata,SPI.D2.4.NADA,2021,1
+United States,USA,National Accounts base year,SPI.D5.2.2.NABY,2021,1
+United States,USA,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2021,0.781
+United States,USA,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2021,100
+United States,USA,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2021,92.7
+United States,USA,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2021,85.95
+United States,USA,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2021,85.1
+United States,USA,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2021,100
+United States,USA,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2021,1
+United States,USA,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2021,1
+United States,USA,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2021,1
+United States,USA,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2021,1
+United States,USA,SPI Overall Score,SPI.INDEX,2021,92.75
+United States,USA,System of national accounts in use,SPI.D5.2.1.SNAU,2021,1
+Philippines,PHL,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2021,1
+Philippines,PHL,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2021,1
+Philippines,PHL,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2021,1
+Philippines,PHL,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2021,1
+Philippines,PHL,Business process,SPI.D5.2.10.GSBP,2021,0
+Philippines,PHL,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2021,1
+Philippines,PHL,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2021,1
+Philippines,PHL,Central government accounting status,SPI.D5.2.7.CGOV,2021,0
+Philippines,PHL,Classification of household consumption,SPI.D5.2.5.HOUS,2021,1
+Philippines,PHL,Classification of national industry,SPI.D5.2.3.CNIN,2021,0.5
+Philippines,PHL,Classification of status of employment,SPI.D5.2.6.EMPL,2021,1
+Philippines,PHL,Compilation of government finance statistics,SPI.D5.2.8.FINA,2021,0
+Philippines,PHL,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2021,1
+Philippines,PHL,CPI base year,SPI.D5.2.4.CPIBY,2021,0.5
+Philippines,PHL,CRVS (WDI),SPI.D4.2.3.CRVS,2021,1
+Philippines,PHL,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2021,1
+Philippines,PHL,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2021,1
+Philippines,PHL,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2021,0.813
+Philippines,PHL,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2021,0.524
+Philippines,PHL,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2021,0.967
+Philippines,PHL,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2021,0.598
+Philippines,PHL,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2021,0.976
+Philippines,PHL,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2021,1
+Philippines,PHL,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2021,1
+Philippines,PHL,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2021,0.915833333333333
+Philippines,PHL,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2021,0.9115
+Philippines,PHL,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2021,0.8335
+Philippines,PHL,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2021,0.869
+Philippines,PHL,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2021,1
+Philippines,PHL,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2021,0.934
+Philippines,PHL,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2021,1
+Philippines,PHL,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2021,0.407
+Philippines,PHL,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2021,1
+Philippines,PHL,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2021,0.55
+Philippines,PHL,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2021,0.407
+Philippines,PHL,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2021,1
+Philippines,PHL,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2021,0.75
+Philippines,PHL,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2021,1
+Philippines,PHL,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2021,1
+Philippines,PHL,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2021,0.667
+Philippines,PHL,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2021,1
+Philippines,PHL,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2021,0.8
+Philippines,PHL,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2021,0.938
+Philippines,PHL,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2021,0.9
+Philippines,PHL,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2021,0.92
+Philippines,PHL,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2021,1
+Philippines,PHL,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2021,0.8
+Philippines,PHL,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2021,0.875
+Philippines,PHL,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2021,0.944
+Philippines,PHL,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2021,0.875
+Philippines,PHL,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2021,0.9
+Philippines,PHL,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2021,0.67
+Philippines,PHL,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2021,1
+Philippines,PHL,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2021,1
+Philippines,PHL,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2021,1
+Philippines,PHL,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2021,1
+Philippines,PHL,NADA metadata,SPI.D2.4.NADA,2021,1
+Philippines,PHL,National Accounts base year,SPI.D5.2.2.NABY,2021,0.5
+Philippines,PHL,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2021,0.813
+Philippines,PHL,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2021,100
+Philippines,PHL,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2021,93.7666666666667
+Philippines,PHL,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2021,89.80625
+Philippines,PHL,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2021,83.525
+Philippines,PHL,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2021,55
+Philippines,PHL,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2021,1
+Philippines,PHL,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2021,1
+Philippines,PHL,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2021,1
+Philippines,PHL,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2021,1
+Philippines,PHL,SPI Overall Score,SPI.INDEX,2021,84.4195833333333
+Philippines,PHL,System of national accounts in use,SPI.D5.2.1.SNAU,2021,1
+Nigeria,NGA,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2021,0.5
+Nigeria,NGA,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2021,1
+Nigeria,NGA,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2021,0.5
+Nigeria,NGA,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2021,1
+Nigeria,NGA,Business process,SPI.D5.2.10.GSBP,2021,0
+Nigeria,NGA,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2021,0
+Nigeria,NGA,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2021,0
+Nigeria,NGA,Central government accounting status,SPI.D5.2.7.CGOV,2021,0
+Nigeria,NGA,Classification of household consumption,SPI.D5.2.5.HOUS,2021,1
+Nigeria,NGA,Classification of national industry,SPI.D5.2.3.CNIN,2021,1
+Nigeria,NGA,Classification of status of employment,SPI.D5.2.6.EMPL,2021,0
+Nigeria,NGA,Compilation of government finance statistics,SPI.D5.2.8.FINA,2021,0
+Nigeria,NGA,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2021,1
+Nigeria,NGA,CPI base year,SPI.D5.2.4.CPIBY,2021,0
+Nigeria,NGA,CRVS (WDI),SPI.D4.2.3.CRVS,2021,0
+Nigeria,NGA,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2021,0.9
+Nigeria,NGA,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2021,0.5
+Nigeria,NGA,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2021,0.514
+Nigeria,NGA,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2021,0.426
+Nigeria,NGA,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2021,0.552
+Nigeria,NGA,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2021,0.426
+Nigeria,NGA,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2021,0.9
+Nigeria,NGA,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2021,0.267
+Nigeria,NGA,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2021,1
+Nigeria,NGA,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2021,0.835666666666667
+Nigeria,NGA,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2021,0.823166666666667
+Nigeria,NGA,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2021,0.5
+Nigeria,NGA,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2021,0.744
+Nigeria,NGA,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2021,0.333333333333333
+Nigeria,NGA,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2021,0.666
+Nigeria,NGA,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2021,0
+Nigeria,NGA,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2021,0.346
+Nigeria,NGA,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2021,0.4
+Nigeria,NGA,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2021,0.346
+Nigeria,NGA,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2021,0.714
+Nigeria,NGA,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2021,0.875
+Nigeria,NGA,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2021,0.6
+Nigeria,NGA,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2021,1
+Nigeria,NGA,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2021,0
+Nigeria,NGA,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2021,1
+Nigeria,NGA,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2021,0.8
+Nigeria,NGA,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2021,0.688
+Nigeria,NGA,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2021,0.9
+Nigeria,NGA,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2021,0.8
+Nigeria,NGA,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2021,0.6
+Nigeria,NGA,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2021,1
+Nigeria,NGA,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2021,1
+Nigeria,NGA,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2021,0.889
+Nigeria,NGA,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2021,0.875
+Nigeria,NGA,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2021,0.7
+Nigeria,NGA,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2021,1
+Nigeria,NGA,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2021,1
+Nigeria,NGA,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2021,1
+Nigeria,NGA,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2021,0.33
+Nigeria,NGA,NADA metadata,SPI.D2.4.NADA,2021,1
+Nigeria,NGA,National Accounts base year,SPI.D5.2.2.NABY,2021,0
+Nigeria,NGA,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2021,0.514
+Nigeria,NGA,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2021,90
+Nigeria,NGA,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2021,67.1333333333333
+Nigeria,NGA,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2021,77.75625
+Nigeria,NGA,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2021,33.6333333333333
+Nigeria,NGA,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2021,40
+Nigeria,NGA,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2021,0.5
+Nigeria,NGA,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2021,1
+Nigeria,NGA,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2021,1
+Nigeria,NGA,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2021,0.5
+Nigeria,NGA,SPI Overall Score,SPI.INDEX,2021,61.7045833333334
+Nigeria,NGA,System of national accounts in use,SPI.D5.2.1.SNAU,2021,1
+Kenya,KEN,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2021,1
+Kenya,KEN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2021,0.67
+Kenya,KEN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2021,1
+Kenya,KEN,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2021,1
+Kenya,KEN,Business process,SPI.D5.2.10.GSBP,2021,0
+Kenya,KEN,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2021,1
+Kenya,KEN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2021,0
+Kenya,KEN,Central government accounting status,SPI.D5.2.7.CGOV,2021,1
+Kenya,KEN,Classification of household consumption,SPI.D5.2.5.HOUS,2021,1
+Kenya,KEN,Classification of national industry,SPI.D5.2.3.CNIN,2021,0.5
+Kenya,KEN,Classification of status of employment,SPI.D5.2.6.EMPL,2021,1
+Kenya,KEN,Compilation of government finance statistics,SPI.D5.2.8.FINA,2021,0.5
+Kenya,KEN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2021,1
+Kenya,KEN,CPI base year,SPI.D5.2.4.CPIBY,2021,0.5
+Kenya,KEN,CRVS (WDI),SPI.D4.2.3.CRVS,2021,0
+Kenya,KEN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2021,0.9
+Kenya,KEN,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2021,0.5
+Kenya,KEN,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2021,0.32
+Kenya,KEN,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2021,0.181
+Kenya,KEN,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2021,0
+Kenya,KEN,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2021,0.483
+Kenya,KEN,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2021,0.933
+Kenya,KEN,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2021,0
+Kenya,KEN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2021,1
+Kenya,KEN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2021,0.6985
+Kenya,KEN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2021,0.849
+Kenya,KEN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2021,0.6165
+Kenya,KEN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2021,0.869
+Kenya,KEN,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2021,1
+Kenya,KEN,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2021,0.534
+Kenya,KEN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2021,0
+Kenya,KEN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2021,0.389
+Kenya,KEN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2021,1
+Kenya,KEN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2021,0.65
+Kenya,KEN,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2021,0.389
+Kenya,KEN,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2021,0.571
+Kenya,KEN,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2021,0.875
+Kenya,KEN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2021,0.8
+Kenya,KEN,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2021,0.8
+Kenya,KEN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2021,0.333
+Kenya,KEN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2021,0.9
+Kenya,KEN,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2021,0.8
+Kenya,KEN,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2021,0.938
+Kenya,KEN,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2021,0.7
+Kenya,KEN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2021,0.72
+Kenya,KEN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2021,0.6
+Kenya,KEN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2021,0.6
+Kenya,KEN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2021,1
+Kenya,KEN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2021,0.944
+Kenya,KEN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2021,0.875
+Kenya,KEN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2021,0.8
+Kenya,KEN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2021,1
+Kenya,KEN,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2021,1
+Kenya,KEN,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2021,0.5
+Kenya,KEN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2021,0
+Kenya,KEN,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2021,1
+Kenya,KEN,NADA metadata,SPI.D2.4.NADA,2021,1
+Kenya,KEN,National Accounts base year,SPI.D5.2.2.NABY,2021,0
+Kenya,KEN,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2021,0.32
+Kenya,KEN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2021,90
+Kenya,KEN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2021,60.6666666666667
+Kenya,KEN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2021,76.6
+Kenya,KEN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2021,48.075
+Kenya,KEN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2021,65
+Kenya,KEN,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2021,1
+Kenya,KEN,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2021,1
+Kenya,KEN,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2021,1
+Kenya,KEN,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2021,0.5
+Kenya,KEN,SPI Overall Score,SPI.INDEX,2021,68.0683333333333
+Kenya,KEN,System of national accounts in use,SPI.D5.2.1.SNAU,2021,1
+India,IND,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2021,1
+India,IND,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2021,0.33
+India,IND,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2021,0
+India,IND,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2021,1
+India,IND,Business process,SPI.D5.2.10.GSBP,2021,0
+India,IND,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2021,1
+India,IND,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2021,1
+India,IND,Central government accounting status,SPI.D5.2.7.CGOV,2021,0
+India,IND,Classification of household consumption,SPI.D5.2.5.HOUS,2021,1
+India,IND,Classification of national industry,SPI.D5.2.3.CNIN,2021,0.5
+India,IND,Classification of status of employment,SPI.D5.2.6.EMPL,2021,1
+India,IND,Compilation of government finance statistics,SPI.D5.2.8.FINA,2021,1
+India,IND,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2021,0
+India,IND,CPI base year,SPI.D5.2.4.CPIBY,2021,0.5
+India,IND,CRVS (WDI),SPI.D4.2.3.CRVS,2021,1
+India,IND,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2021,0.8
+India,IND,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2021,1
+India,IND,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2021,0.65
+India,IND,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2021,0.467
+India,IND,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2021,0.826
+India,IND,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2021,0.581
+India,IND,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2021,0.95
+India,IND,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2021,0.426
+India,IND,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2021,1
+India,IND,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2021,0.852833333333333
+India,IND,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2021,0.932333333333333
+India,IND,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2021,0.778
+India,IND,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2021,0.769
+India,IND,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2021,1
+India,IND,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2021,0.666
+India,IND,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2021,1
+India,IND,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2021,0.367
+India,IND,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2021,1
+India,IND,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2021,0.55
+India,IND,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2021,0
+India,IND,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2021,0
+India,IND,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2021,0.367
+India,IND,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2021,0.857
+India,IND,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2021,0.875
+India,IND,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2021,1
+India,IND,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2021,1
+India,IND,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2021,0.667
+India,IND,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2021,0.889
+India,IND,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2021,0.6
+India,IND,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2021,0.938
+India,IND,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2021,0.9
+India,IND,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2021,0.76
+India,IND,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2021,1
+India,IND,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2021,0.6
+India,IND,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2021,1
+India,IND,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2021,0.944
+India,IND,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2021,0.875
+India,IND,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2021,0.9
+India,IND,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2021,1
+India,IND,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2021,0
+India,IND,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2021,1
+India,IND,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2021,1
+India,IND,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2021,1
+India,IND,NADA metadata,SPI.D2.4.NADA,2021,1
+India,IND,National Accounts base year,SPI.D5.2.2.NABY,2021,0.5
+India,IND,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2021,0.65
+India,IND,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2021,80
+India,IND,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2021,88.3333333333333
+India,IND,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2021,86.28125
+India,IND,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2021,75.825
+India,IND,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2021,55
+India,IND,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2021,1
+India,IND,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2021,1
+India,IND,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2021,1
+India,IND,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2021,1
+India,IND,SPI Overall Score,SPI.INDEX,2021,77.0879166666667
+India,IND,System of national accounts in use,SPI.D5.2.1.SNAU,2021,1
+Germany,DEU,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2021,1
+Germany,DEU,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2021,1
+Germany,DEU,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2021,1
+Germany,DEU,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2021,1
+Germany,DEU,Business process,SPI.D5.2.10.GSBP,2021,1
+Germany,DEU,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2021,1
+Germany,DEU,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2021,1
+Germany,DEU,Central government accounting status,SPI.D5.2.7.CGOV,2021,1
+Germany,DEU,Classification of household consumption,SPI.D5.2.5.HOUS,2021,1
+Germany,DEU,Classification of national industry,SPI.D5.2.3.CNIN,2021,1
+Germany,DEU,Classification of status of employment,SPI.D5.2.6.EMPL,2021,1
+Germany,DEU,Compilation of government finance statistics,SPI.D5.2.8.FINA,2021,1
+Germany,DEU,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2021,1
+Germany,DEU,CPI base year,SPI.D5.2.4.CPIBY,2021,0.5
+Germany,DEU,CRVS (WDI),SPI.D4.2.3.CRVS,2021,1
+Germany,DEU,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2021,1
+Germany,DEU,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2021,1
+Germany,DEU,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2021,0.86
+Germany,DEU,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2021,0.802
+Germany,DEU,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2021,1
+Germany,DEU,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2021,0.524
+Germany,DEU,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2021,1
+Germany,DEU,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2021,0.976
+Germany,DEU,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2021,1
+Germany,DEU,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2021,0.8025
+Germany,DEU,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2021,0.861166666666667
+Germany,DEU,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2021,1
+Germany,DEU,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2021,0.806
+Germany,DEU,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2021,1
+Germany,DEU,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2021,1
+Germany,DEU,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2021,1
+Germany,DEU,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2021,0.416
+Germany,DEU,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2021,1
+Germany,DEU,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2021,0.95
+Germany,DEU,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2021,1
+Germany,DEU,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2021,1
+Germany,DEU,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2021,0.416
+Germany,DEU,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2021,1
+Germany,DEU,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2021,1
+Germany,DEU,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2021,0.8
+Germany,DEU,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2021,0.8
+Germany,DEU,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2021,1
+Germany,DEU,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2021,1
+Germany,DEU,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2021,0.8
+Germany,DEU,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2021,0.812
+Germany,DEU,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2021,0.7
+Germany,DEU,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2021,0.84
+Germany,DEU,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2021,0.8
+Germany,DEU,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2021,0.6
+Germany,DEU,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2021,0.875
+Germany,DEU,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2021,0.667
+Germany,DEU,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2021,1
+Germany,DEU,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2021,0.9
+Germany,DEU,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2021,1
+Germany,DEU,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2021,1
+Germany,DEU,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2021,1
+Germany,DEU,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2021,1
+Germany,DEU,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2021,1
+Germany,DEU,NADA metadata,SPI.D2.4.NADA,2021,1
+Germany,DEU,National Accounts base year,SPI.D5.2.2.NABY,2021,1
+Germany,DEU,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2021,0.86
+Germany,DEU,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2021,100
+Germany,DEU,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2021,95.3333333333333
+Germany,DEU,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2021,84.9625
+Germany,DEU,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2021,85.4
+Germany,DEU,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2021,95
+Germany,DEU,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2021,1
+Germany,DEU,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2021,1
+Germany,DEU,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2021,1
+Germany,DEU,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2021,1
+Germany,DEU,SPI Overall Score,SPI.INDEX,2021,92.1391666666666
+Germany,DEU,System of national accounts in use,SPI.D5.2.1.SNAU,2021,1
+Canada,CAN,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2021,1
+Canada,CAN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2021,1
+Canada,CAN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2021,1
+Canada,CAN,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2021,1
+Canada,CAN,Business process,SPI.D5.2.10.GSBP,2021,1
+Canada,CAN,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2021,1
+Canada,CAN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2021,1
+Canada,CAN,Central government accounting status,SPI.D5.2.7.CGOV,2021,1
+Canada,CAN,Classification of household consumption,SPI.D5.2.5.HOUS,2021,1
+Canada,CAN,Classification of national industry,SPI.D5.2.3.CNIN,2021,1
+Canada,CAN,Classification of status of employment,SPI.D5.2.6.EMPL,2021,1
+Canada,CAN,Compilation of government finance statistics,SPI.D5.2.8.FINA,2021,1
+Canada,CAN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2021,1
+Canada,CAN,CPI base year,SPI.D5.2.4.CPIBY,2021,1
+Canada,CAN,CRVS (WDI),SPI.D4.2.3.CRVS,2021,1
+Canada,CAN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2021,1
+Canada,CAN,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2021,1
+Canada,CAN,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2021,0.792
+Canada,CAN,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2021,0.783
+Canada,CAN,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2021,0.9
+Canada,CAN,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2021,0.81
+Canada,CAN,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2021,1
+Canada,CAN,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2021,0.467
+Canada,CAN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2021,1
+Canada,CAN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2021,0.8425
+Canada,CAN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2021,0.861166666666667
+Canada,CAN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2021,0.778
+Canada,CAN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2021,0.806
+Canada,CAN,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2021,1
+Canada,CAN,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2021,1
+Canada,CAN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2021,1
+Canada,CAN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2021,0.614
+Canada,CAN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2021,1
+Canada,CAN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2021,1
+Canada,CAN,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2021,1
+Canada,CAN,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2021,1
+Canada,CAN,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2021,0.614
+Canada,CAN,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2021,1
+Canada,CAN,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2021,1
+Canada,CAN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2021,0.8
+Canada,CAN,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2021,0.8
+Canada,CAN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2021,0.667
+Canada,CAN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2021,0.889
+Canada,CAN,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2021,0.8
+Canada,CAN,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2021,0.812
+Canada,CAN,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2021,0.9
+Canada,CAN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2021,0.88
+Canada,CAN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2021,0.6
+Canada,CAN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2021,0.8
+Canada,CAN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2021,0.875
+Canada,CAN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2021,0.667
+Canada,CAN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2021,1
+Canada,CAN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2021,0.9
+Canada,CAN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2021,1
+Canada,CAN,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2021,1
+Canada,CAN,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2021,1
+Canada,CAN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2021,1
+Canada,CAN,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2021,1
+Canada,CAN,NADA metadata,SPI.D2.4.NADA,2021,1
+Canada,CAN,National Accounts base year,SPI.D5.2.2.NABY,2021,1
+Canada,CAN,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2021,0.792
+Canada,CAN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2021,100
+Canada,CAN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2021,93.0666666666666
+Canada,CAN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2021,83.6875
+Canada,CAN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2021,90.35
+Canada,CAN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2021,100
+Canada,CAN,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2021,1
+Canada,CAN,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2021,1
+Canada,CAN,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2021,1
+Canada,CAN,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2021,1
+Canada,CAN,SPI Overall Score,SPI.INDEX,2021,93.4208333333333
+Canada,CAN,System of national accounts in use,SPI.D5.2.1.SNAU,2021,1
+United States,USA,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2022,1
+United States,USA,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2022,1
+United States,USA,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2022,1
+United States,USA,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2022,1
+United States,USA,Business process,SPI.D5.2.10.GSBP,2022,1
+United States,USA,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2022,1
+United States,USA,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2022,1
+United States,USA,Central government accounting status,SPI.D5.2.7.CGOV,2022,1
+United States,USA,Classification of household consumption,SPI.D5.2.5.HOUS,2022,1
+United States,USA,Classification of national industry,SPI.D5.2.3.CNIN,2022,1
+United States,USA,Classification of status of employment,SPI.D5.2.6.EMPL,2022,1
+United States,USA,Compilation of government finance statistics,SPI.D5.2.8.FINA,2022,1
+United States,USA,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2022,1
+United States,USA,CPI base year,SPI.D5.2.4.CPIBY,2022,1
+United States,USA,CRVS (WDI),SPI.D4.2.3.CRVS,2022,1
+United States,USA,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2022,1
+United States,USA,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2022,1
+United States,USA,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2022,0.794
+United States,USA,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2022,0.626
+United States,USA,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2022,0.917
+United States,USA,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2022,0.595
+United States,USA,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2022,0.933
+United States,USA,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2022,0.9
+United States,USA,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2022,1
+United States,USA,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2022,0.772833333333333
+United States,USA,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2022,0.8385
+United States,USA,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2022,0.9545
+United States,USA,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2022,0.661
+United States,USA,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2022,1
+United States,USA,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2022,1
+United States,USA,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2022,1
+United States,USA,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2022,0.425
+United States,USA,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2022,1
+United States,USA,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2022,1
+United States,USA,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2022,1
+United States,USA,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2022,1
+United States,USA,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2022,0.425
+United States,USA,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2022,0.875
+United States,USA,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2022,0.9
+United States,USA,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2022,0.875
+United States,USA,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2022,0.8
+United States,USA,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2022,1
+United States,USA,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2022,0.909
+United States,USA,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2022,0.6
+United States,USA,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2022,0.722
+United States,USA,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2022,0.9
+United States,USA,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2022,0.92
+United States,USA,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2022,0.4
+United States,USA,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2022,0.667
+United States,USA,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2022,0.875
+United States,USA,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2022,0.667
+United States,USA,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2022,0.889
+United States,USA,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2022,0.9
+United States,USA,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2022,1
+United States,USA,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2022,1
+United States,USA,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2022,1
+United States,USA,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2022,1
+United States,USA,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2022,1
+United States,USA,NADA metadata,SPI.D2.4.NADA,2022,1
+United States,USA,National Accounts base year,SPI.D5.2.2.NABY,2022,1
+United States,USA,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2022,0.794
+United States,USA,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2022,100
+United States,USA,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2022,93.1333333333333
+United States,USA,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2022,80.61875
+United States,USA,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2022,85.625
+United States,USA,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2022,100
+United States,USA,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2022,1
+United States,USA,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2022,1
+United States,USA,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2022,1
+United States,USA,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2022,1
+United States,USA,SPI Overall Score,SPI.INDEX,2022,91.8754166666667
+United States,USA,System of national accounts in use,SPI.D5.2.1.SNAU,2022,1
+Philippines,PHL,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2022,1
+Philippines,PHL,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2022,1
+Philippines,PHL,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2022,1
+Philippines,PHL,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2022,1
+Philippines,PHL,Business process,SPI.D5.2.10.GSBP,2022,0
+Philippines,PHL,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2022,1
+Philippines,PHL,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2022,1
+Philippines,PHL,Central government accounting status,SPI.D5.2.7.CGOV,2022,0
+Philippines,PHL,Classification of household consumption,SPI.D5.2.5.HOUS,2022,1
+Philippines,PHL,Classification of national industry,SPI.D5.2.3.CNIN,2022,0.5
+Philippines,PHL,Classification of status of employment,SPI.D5.2.6.EMPL,2022,1
+Philippines,PHL,Compilation of government finance statistics,SPI.D5.2.8.FINA,2022,0
+Philippines,PHL,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2022,1
+Philippines,PHL,CPI base year,SPI.D5.2.4.CPIBY,2022,0.5
+Philippines,PHL,CRVS (WDI),SPI.D4.2.3.CRVS,2022,1
+Philippines,PHL,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2022,1
+Philippines,PHL,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2022,1
+Philippines,PHL,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2022,0.78
+Philippines,PHL,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2022,0.483
+Philippines,PHL,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2022,0.86
+Philippines,PHL,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2022,0.557
+Philippines,PHL,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2022,1
+Philippines,PHL,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2022,1
+Philippines,PHL,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2022,1
+Philippines,PHL,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2022,0.845833333333333
+Philippines,PHL,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2022,0.903666666666667
+Philippines,PHL,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2022,0.7425
+Philippines,PHL,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2022,0.7945
+Philippines,PHL,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2022,1
+Philippines,PHL,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2022,1
+Philippines,PHL,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2022,1
+Philippines,PHL,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2022,0.491
+Philippines,PHL,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2022,1
+Philippines,PHL,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2022,0.55
+Philippines,PHL,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2022,1
+Philippines,PHL,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2022,1
+Philippines,PHL,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2022,0.491
+Philippines,PHL,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2022,1
+Philippines,PHL,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2022,0.8
+Philippines,PHL,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2022,1
+Philippines,PHL,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2022,1
+Philippines,PHL,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2022,0.667
+Philippines,PHL,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2022,0.818
+Philippines,PHL,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2022,0.7
+Philippines,PHL,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2022,0.889
+Philippines,PHL,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2022,0.9
+Philippines,PHL,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2022,0.8
+Philippines,PHL,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2022,1
+Philippines,PHL,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2022,0.5
+Philippines,PHL,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2022,0.875
+Philippines,PHL,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2022,0.833
+Philippines,PHL,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2022,0.889
+Philippines,PHL,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2022,0.9
+Philippines,PHL,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2022,1
+Philippines,PHL,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2022,1
+Philippines,PHL,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2022,1
+Philippines,PHL,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2022,1
+Philippines,PHL,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2022,1
+Philippines,PHL,NADA metadata,SPI.D2.4.NADA,2022,1
+Philippines,PHL,National Accounts base year,SPI.D5.2.2.NABY,2022,0.5
+Philippines,PHL,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2022,0.78
+Philippines,PHL,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2022,100
+Philippines,PHL,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2022,92.6666666666667
+Philippines,PHL,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2022,84.81875
+Philippines,PHL,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2022,87.275
+Philippines,PHL,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2022,55
+Philippines,PHL,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2022,1
+Philippines,PHL,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2022,1
+Philippines,PHL,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2022,1
+Philippines,PHL,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2022,1
+Philippines,PHL,SPI Overall Score,SPI.INDEX,2022,83.9520833333333
+Philippines,PHL,System of national accounts in use,SPI.D5.2.1.SNAU,2022,1
+Nigeria,NGA,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2022,0.5
+Nigeria,NGA,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2022,1
+Nigeria,NGA,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2022,0.5
+Nigeria,NGA,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2022,1
+Nigeria,NGA,Business process,SPI.D5.2.10.GSBP,2022,0
+Nigeria,NGA,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2022,0
+Nigeria,NGA,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2022,0
+Nigeria,NGA,Central government accounting status,SPI.D5.2.7.CGOV,2022,0
+Nigeria,NGA,Classification of household consumption,SPI.D5.2.5.HOUS,2022,1
+Nigeria,NGA,Classification of national industry,SPI.D5.2.3.CNIN,2022,1
+Nigeria,NGA,Classification of status of employment,SPI.D5.2.6.EMPL,2022,0
+Nigeria,NGA,Compilation of government finance statistics,SPI.D5.2.8.FINA,2022,0
+Nigeria,NGA,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2022,1
+Nigeria,NGA,CPI base year,SPI.D5.2.4.CPIBY,2022,0
+Nigeria,NGA,CRVS (WDI),SPI.D4.2.3.CRVS,2022,0
+Nigeria,NGA,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2022,0.8
+Nigeria,NGA,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2022,0.5
+Nigeria,NGA,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2022,0.415
+Nigeria,NGA,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2022,0.336
+Nigeria,NGA,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2022,0.393
+Nigeria,NGA,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2022,0.481
+Nigeria,NGA,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2022,0.867
+Nigeria,NGA,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2022,0
+Nigeria,NGA,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2022,1
+Nigeria,NGA,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2022,0.774166666666667
+Nigeria,NGA,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2022,0.813
+Nigeria,NGA,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2022,0.409
+Nigeria,NGA,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2022,0.6835
+Nigeria,NGA,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2022,0.333333333333333
+Nigeria,NGA,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2022,0.734
+Nigeria,NGA,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2022,0
+Nigeria,NGA,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2022,0.337
+Nigeria,NGA,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2022,0.4
+Nigeria,NGA,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2022,0.337
+Nigeria,NGA,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2022,0.625
+Nigeria,NGA,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2022,0.9
+Nigeria,NGA,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2022,0.5
+Nigeria,NGA,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2022,1
+Nigeria,NGA,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2022,0
+Nigeria,NGA,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2022,0.818
+Nigeria,NGA,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2022,0.7
+Nigeria,NGA,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2022,0.667
+Nigeria,NGA,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2022,0.9
+Nigeria,NGA,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2022,0.72
+Nigeria,NGA,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2022,0.4
+Nigeria,NGA,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2022,1
+Nigeria,NGA,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2022,1
+Nigeria,NGA,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2022,0.889
+Nigeria,NGA,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2022,0.889
+Nigeria,NGA,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2022,0.7
+Nigeria,NGA,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2022,1
+Nigeria,NGA,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2022,1
+Nigeria,NGA,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2022,0.5
+Nigeria,NGA,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2022,0.67
+Nigeria,NGA,NADA metadata,SPI.D2.4.NADA,2022,1
+Nigeria,NGA,National Accounts base year,SPI.D5.2.2.NABY,2022,0
+Nigeria,NGA,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2022,0.415
+Nigeria,NGA,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2022,80
+Nigeria,NGA,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2022,63.8333333333333
+Nigeria,NGA,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2022,73.175
+Nigeria,NGA,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2022,35.1083333333333
+Nigeria,NGA,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2022,40
+Nigeria,NGA,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2022,0.5
+Nigeria,NGA,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2022,1
+Nigeria,NGA,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2022,1
+Nigeria,NGA,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2022,0.5
+Nigeria,NGA,SPI Overall Score,SPI.INDEX,2022,58.4233333333333
+Nigeria,NGA,System of national accounts in use,SPI.D5.2.1.SNAU,2022,1
+Kenya,KEN,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2022,1
+Kenya,KEN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2022,0.67
+Kenya,KEN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2022,1
+Kenya,KEN,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2022,1
+Kenya,KEN,Business process,SPI.D5.2.10.GSBP,2022,0
+Kenya,KEN,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2022,1
+Kenya,KEN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2022,0
+Kenya,KEN,Central government accounting status,SPI.D5.2.7.CGOV,2022,1
+Kenya,KEN,Classification of household consumption,SPI.D5.2.5.HOUS,2022,1
+Kenya,KEN,Classification of national industry,SPI.D5.2.3.CNIN,2022,0.5
+Kenya,KEN,Classification of status of employment,SPI.D5.2.6.EMPL,2022,1
+Kenya,KEN,Compilation of government finance statistics,SPI.D5.2.8.FINA,2022,0.5
+Kenya,KEN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2022,1
+Kenya,KEN,CPI base year,SPI.D5.2.4.CPIBY,2022,0.5
+Kenya,KEN,CRVS (WDI),SPI.D4.2.3.CRVS,2022,0
+Kenya,KEN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2022,0.9
+Kenya,KEN,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2022,0.5
+Kenya,KEN,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2022,0.37
+Kenya,KEN,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2022,0.2
+Kenya,KEN,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2022,0.117
+Kenya,KEN,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2022,0.533
+Kenya,KEN,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2022,1
+Kenya,KEN,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2022,0
+Kenya,KEN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2022,1
+Kenya,KEN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2022,0.684166666666667
+Kenya,KEN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2022,0.832833333333333
+Kenya,KEN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2022,0.5755
+Kenya,KEN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2022,0.7945
+Kenya,KEN,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2022,1
+Kenya,KEN,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2022,0.534
+Kenya,KEN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2022,0
+Kenya,KEN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2022,0.325
+Kenya,KEN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2022,1
+Kenya,KEN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2022,0.7
+Kenya,KEN,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2022,1
+Kenya,KEN,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2022,1
+Kenya,KEN,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2022,0.325
+Kenya,KEN,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2022,0.625
+Kenya,KEN,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2022,0.8
+Kenya,KEN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2022,0.875
+Kenya,KEN,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2022,0.8
+Kenya,KEN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2022,0.333
+Kenya,KEN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2022,0.818
+Kenya,KEN,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2022,0.7
+Kenya,KEN,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2022,0.889
+Kenya,KEN,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2022,0.7
+Kenya,KEN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2022,0.68
+Kenya,KEN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2022,0.6
+Kenya,KEN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2022,0.5
+Kenya,KEN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2022,1
+Kenya,KEN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2022,0.944
+Kenya,KEN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2022,0.778
+Kenya,KEN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2022,0.8
+Kenya,KEN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2022,1
+Kenya,KEN,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2022,1
+Kenya,KEN,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2022,0.5
+Kenya,KEN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2022,0
+Kenya,KEN,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2022,1
+Kenya,KEN,NADA metadata,SPI.D2.4.NADA,2022,1
+Kenya,KEN,National Accounts base year,SPI.D5.2.2.NABY,2022,0.5
+Kenya,KEN,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2022,0.37
+Kenya,KEN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2022,90
+Kenya,KEN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2022,62.3333333333333
+Kenya,KEN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2022,74.0125
+Kenya,KEN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2022,46.475
+Kenya,KEN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2022,70
+Kenya,KEN,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2022,1
+Kenya,KEN,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2022,1
+Kenya,KEN,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2022,1
+Kenya,KEN,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2022,0.5
+Kenya,KEN,SPI Overall Score,SPI.INDEX,2022,68.5641666666667
+Kenya,KEN,System of national accounts in use,SPI.D5.2.1.SNAU,2022,1
+India,IND,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2022,1
+India,IND,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2022,0.33
+India,IND,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2022,0
+India,IND,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2022,1
+India,IND,Business process,SPI.D5.2.10.GSBP,2022,0
+India,IND,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2022,1
+India,IND,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2022,1
+India,IND,Central government accounting status,SPI.D5.2.7.CGOV,2022,0
+India,IND,Classification of household consumption,SPI.D5.2.5.HOUS,2022,1
+India,IND,Classification of national industry,SPI.D5.2.3.CNIN,2022,0.5
+India,IND,Classification of status of employment,SPI.D5.2.6.EMPL,2022,1
+India,IND,Compilation of government finance statistics,SPI.D5.2.8.FINA,2022,1
+India,IND,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2022,0
+India,IND,CPI base year,SPI.D5.2.4.CPIBY,2022,0.5
+India,IND,CRVS (WDI),SPI.D4.2.3.CRVS,2022,1
+India,IND,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2022,0.8
+India,IND,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2022,1
+India,IND,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2022,0.632
+India,IND,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2022,0.45
+India,IND,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2022,0.817
+India,IND,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2022,0.59
+India,IND,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2022,0.967
+India,IND,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2022,0.336
+India,IND,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2022,1
+India,IND,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2022,0.7175
+India,IND,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2022,0.8805
+India,IND,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2022,0.7425
+India,IND,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2022,0.7945
+India,IND,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2022,0.833333333333333
+India,IND,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2022,0.666
+India,IND,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2022,1
+India,IND,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2022,0.346
+India,IND,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2022,1
+India,IND,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2022,0.55
+India,IND,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2022,0
+India,IND,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2022,0
+India,IND,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2022,0.346
+India,IND,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2022,0.75
+India,IND,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2022,0.8
+India,IND,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2022,0.75
+India,IND,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2022,1
+India,IND,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2022,0.667
+India,IND,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2022,0.818
+India,IND,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2022,0.7
+India,IND,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2022,0.889
+India,IND,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2022,0.7
+India,IND,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2022,0.68
+India,IND,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2022,0.8
+India,IND,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2022,0.5
+India,IND,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2022,0.875
+India,IND,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2022,0.944
+India,IND,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2022,0.889
+India,IND,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2022,0.9
+India,IND,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2022,1
+India,IND,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2022,0
+India,IND,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2022,1
+India,IND,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2022,1
+India,IND,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2022,1
+India,IND,NADA metadata,SPI.D2.4.NADA,2022,1
+India,IND,National Accounts base year,SPI.D5.2.2.NABY,2022,0.5
+India,IND,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2022,0.632
+India,IND,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2022,80
+India,IND,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2022,87.7333333333333
+India,IND,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2022,79.1375
+India,IND,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2022,71.1333333333333
+India,IND,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2022,55
+India,IND,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2022,0.5
+India,IND,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2022,1
+India,IND,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2022,1
+India,IND,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2022,1
+India,IND,SPI Overall Score,SPI.INDEX,2022,74.6008333333333
+India,IND,System of national accounts in use,SPI.D5.2.1.SNAU,2022,1
+Germany,DEU,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2022,1
+Germany,DEU,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2022,1
+Germany,DEU,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2022,1
+Germany,DEU,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2022,1
+Germany,DEU,Business process,SPI.D5.2.10.GSBP,2022,1
+Germany,DEU,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2022,1
+Germany,DEU,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2022,1
+Germany,DEU,Central government accounting status,SPI.D5.2.7.CGOV,2022,1
+Germany,DEU,Classification of household consumption,SPI.D5.2.5.HOUS,2022,1
+Germany,DEU,Classification of national industry,SPI.D5.2.3.CNIN,2022,1
+Germany,DEU,Classification of status of employment,SPI.D5.2.6.EMPL,2022,1
+Germany,DEU,Compilation of government finance statistics,SPI.D5.2.8.FINA,2022,1
+Germany,DEU,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2022,1
+Germany,DEU,CPI base year,SPI.D5.2.4.CPIBY,2022,0.5
+Germany,DEU,CRVS (WDI),SPI.D4.2.3.CRVS,2022,1
+Germany,DEU,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2022,1
+Germany,DEU,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2022,1
+Germany,DEU,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2022,0.846
+Germany,DEU,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2022,0.745
+Germany,DEU,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2022,1
+Germany,DEU,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2022,0.548
+Germany,DEU,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2022,1
+Germany,DEU,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2022,0.936
+Germany,DEU,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2022,1
+Germany,DEU,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2022,0.779166666666667
+Germany,DEU,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2022,0.836166666666667
+Germany,DEU,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2022,0.9545
+Germany,DEU,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2022,0.789
+Germany,DEU,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2022,1
+Germany,DEU,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2022,1
+Germany,DEU,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2022,1
+Germany,DEU,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2022,0.467
+Germany,DEU,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2022,1
+Germany,DEU,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2022,0.95
+Germany,DEU,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2022,1
+Germany,DEU,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2022,1
+Germany,DEU,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2022,0.467
+Germany,DEU,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2022,1
+Germany,DEU,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2022,0.9
+Germany,DEU,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2022,0.75
+Germany,DEU,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2022,0.8
+Germany,DEU,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2022,1
+Germany,DEU,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2022,0.909
+Germany,DEU,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2022,0.8
+Germany,DEU,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2022,0.778
+Germany,DEU,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2022,0.7
+Germany,DEU,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2022,0.8
+Germany,DEU,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2022,0.8
+Germany,DEU,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2022,0.5
+Germany,DEU,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2022,0.875
+Germany,DEU,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2022,0.667
+Germany,DEU,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2022,1
+Germany,DEU,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2022,0.9
+Germany,DEU,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2022,1
+Germany,DEU,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2022,1
+Germany,DEU,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2022,1
+Germany,DEU,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2022,1
+Germany,DEU,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2022,1
+Germany,DEU,NADA metadata,SPI.D2.4.NADA,2022,1
+Germany,DEU,National Accounts base year,SPI.D5.2.2.NABY,2022,1
+Germany,DEU,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2022,0.846
+Germany,DEU,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2022,100
+Germany,DEU,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2022,94.8666666666667
+Germany,DEU,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2022,82.36875
+Germany,DEU,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2022,86.675
+Germany,DEU,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2022,95
+Germany,DEU,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2022,1
+Germany,DEU,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2022,1
+Germany,DEU,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2022,1
+Germany,DEU,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2022,1
+Germany,DEU,SPI Overall Score,SPI.INDEX,2022,91.7820833333333
+Germany,DEU,System of national accounts in use,SPI.D5.2.1.SNAU,2022,1
+Canada,CAN,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2022,1
+Canada,CAN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2022,1
+Canada,CAN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2022,1
+Canada,CAN,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2022,1
+Canada,CAN,Business process,SPI.D5.2.10.GSBP,2022,1
+Canada,CAN,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2022,1
+Canada,CAN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2022,1
+Canada,CAN,Central government accounting status,SPI.D5.2.7.CGOV,2022,1
+Canada,CAN,Classification of household consumption,SPI.D5.2.5.HOUS,2022,1
+Canada,CAN,Classification of national industry,SPI.D5.2.3.CNIN,2022,1
+Canada,CAN,Classification of status of employment,SPI.D5.2.6.EMPL,2022,1
+Canada,CAN,Compilation of government finance statistics,SPI.D5.2.8.FINA,2022,1
+Canada,CAN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2022,1
+Canada,CAN,CPI base year,SPI.D5.2.4.CPIBY,2022,1
+Canada,CAN,CRVS (WDI),SPI.D4.2.3.CRVS,2022,1
+Canada,CAN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2022,1
+Canada,CAN,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2022,1
+Canada,CAN,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2022,0.782
+Canada,CAN,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2022,0.636
+Canada,CAN,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2022,0.9
+Canada,CAN,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2022,0.893
+Canada,CAN,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2022,1
+Canada,CAN,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2022,0.483
+Canada,CAN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2022,1
+Canada,CAN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2022,0.765333333333333
+Canada,CAN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2022,0.815333333333333
+Canada,CAN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2022,0.697
+Canada,CAN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2022,0.685
+Canada,CAN,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2022,1
+Canada,CAN,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2022,1
+Canada,CAN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2022,1
+Canada,CAN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2022,0.593
+Canada,CAN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2022,1
+Canada,CAN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2022,1
+Canada,CAN,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2022,1
+Canada,CAN,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2022,1
+Canada,CAN,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2022,0.593
+Canada,CAN,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2022,0.75
+Canada,CAN,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2022,0.9
+Canada,CAN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2022,0.625
+Canada,CAN,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2022,0.8
+Canada,CAN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2022,0.667
+Canada,CAN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2022,0.727
+Canada,CAN,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2022,0.592
+Canada,CAN,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2022,0.778
+Canada,CAN,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2022,0.9
+Canada,CAN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2022,0.8
+Canada,CAN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2022,0.6
+Canada,CAN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2022,0.667
+Canada,CAN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2022,0.875
+Canada,CAN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2022,0.667
+Canada,CAN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2022,1
+Canada,CAN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2022,0.9
+Canada,CAN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2022,1
+Canada,CAN,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2022,1
+Canada,CAN,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2022,1
+Canada,CAN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2022,1
+Canada,CAN,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2022,1
+Canada,CAN,NADA metadata,SPI.D2.4.NADA,2022,1
+Canada,CAN,National Accounts base year,SPI.D5.2.2.NABY,2022,1
+Canada,CAN,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2022,0.782
+Canada,CAN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2022,100
+Canada,CAN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2022,92.7333333333333
+Canada,CAN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2022,76.55
+Canada,CAN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2022,89.825
+Canada,CAN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2022,100
+Canada,CAN,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2022,1
+Canada,CAN,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2022,1
+Canada,CAN,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2022,1
+Canada,CAN,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2022,1
+Canada,CAN,SPI Overall Score,SPI.INDEX,2022,91.8216666666667
+Canada,CAN,System of national accounts in use,SPI.D5.2.1.SNAU,2022,1
+United States,USA,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2023,1.0
+United States,USA,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2023,1.0
+United States,USA,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2023,1.0
+United States,USA,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2023,1.0
+United States,USA,Business process,SPI.D5.2.10.GSBP,2023,1.0
+United States,USA,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2023,1.0
+United States,USA,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2023,1.0
+United States,USA,Central government accounting status,SPI.D5.2.7.CGOV,2023,1.0
+United States,USA,Classification of household consumption,SPI.D5.2.5.HOUS,2023,1.0
+United States,USA,Classification of national industry,SPI.D5.2.3.CNIN,2023,1.0
+United States,USA,Classification of status of employment,SPI.D5.2.6.EMPL,2023,1.0
+United States,USA,Compilation of government finance statistics,SPI.D5.2.8.FINA,2023,1.0
+United States,USA,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2023,1.0
+United States,USA,CPI base year,SPI.D5.2.4.CPIBY,2023,1.0
+United States,USA,CRVS (WDI),SPI.D4.2.3.CRVS,2023,1.0
+United States,USA,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2023,1.0
+United States,USA,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2023,1.0
+United States,USA,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2023,0.794
+United States,USA,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2023,0.626
+United States,USA,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2023,0.917
+United States,USA,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2023,0.595
+United States,USA,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2023,0.933
+United States,USA,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2023,0.9
+United States,USA,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2023,1.0
+United States,USA,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2023,0.82
+United States,USA,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2023,0.9555
+United States,USA,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2023,0.9165
+United States,USA,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2023,0.8285
+United States,USA,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2023,1.0
+United States,USA,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2023,1.0
+United States,USA,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2023,1.0
+United States,USA,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2023,0.425
+United States,USA,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2023,1.0
+United States,USA,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2023,1.0
+United States,USA,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2023,1.0
+United States,USA,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2023,1.0
+United States,USA,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2023,0.425
+United States,USA,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2023,0.8
+United States,USA,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2023,1.0
+United States,USA,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2023,1.0
+United States,USA,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2023,1.0
+United States,USA,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2023,1.0
+United States,USA,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2023,0.833
+United States,USA,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2023,0.857
+United States,USA,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2023,0.8
+United States,USA,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2023,0.8
+United States,USA,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2023,0.88
+United States,USA,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2023,0.833
+United States,USA,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2023,0.75
+United States,USA,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2023,0.857
+United States,USA,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2023,0.833
+United States,USA,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2023,1.0
+United States,USA,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2023,0.9
+United States,USA,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2023,1.0
+United States,USA,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2023,1.0
+United States,USA,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2023,1.0
+United States,USA,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2023,1.0
+United States,USA,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2023,1.0
+United States,USA,NADA metadata,SPI.D2.4.NADA,2023,1.0
+United States,USA,National Accounts base year,SPI.D5.2.2.NABY,2023,1.0
+United States,USA,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2023,0.794
+United States,USA,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2023,100.0
+United States,USA,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2023,93.1333333333333
+United States,USA,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2023,88.39375
+United States,USA,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2023,85.625
+United States,USA,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2023,100.0
+United States,USA,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2023,1.0
+United States,USA,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2023,1.0
+United States,USA,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2023,1.0
+United States,USA,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2023,1.0
+United States,USA,SPI Overall Score,SPI.INDEX,2023,93.4304166666667
+United States,USA,System of national accounts in use,SPI.D5.2.1.SNAU,2023,1.0
+Philippines,PHL,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2023,0.5
+Philippines,PHL,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2023,1.0
+Philippines,PHL,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2023,1.0
+Philippines,PHL,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2023,1.0
+Philippines,PHL,Business process,SPI.D5.2.10.GSBP,2023,0.0
+Philippines,PHL,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2023,1.0
+Philippines,PHL,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2023,1.0
+Philippines,PHL,Central government accounting status,SPI.D5.2.7.CGOV,2023,0.0
+Philippines,PHL,Classification of household consumption,SPI.D5.2.5.HOUS,2023,1.0
+Philippines,PHL,Classification of national industry,SPI.D5.2.3.CNIN,2023,0.5
+Philippines,PHL,Classification of status of employment,SPI.D5.2.6.EMPL,2023,1.0
+Philippines,PHL,Compilation of government finance statistics,SPI.D5.2.8.FINA,2023,1.0
+Philippines,PHL,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2023,1.0
+Philippines,PHL,CPI base year,SPI.D5.2.4.CPIBY,2023,0.5
+Philippines,PHL,CRVS (WDI),SPI.D4.2.3.CRVS,2023,1.0
+Philippines,PHL,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2023,1.0
+Philippines,PHL,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2023,1.0
+Philippines,PHL,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2023,0.78
+Philippines,PHL,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2023,0.483
+Philippines,PHL,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2023,0.86
+Philippines,PHL,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2023,0.557
+Philippines,PHL,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2023,1.0
+Philippines,PHL,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2023,1.0
+Philippines,PHL,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2023,1.0
+Philippines,PHL,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2023,0.8745
+Philippines,PHL,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2023,0.878166666666667
+Philippines,PHL,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2023,0.6665
+Philippines,PHL,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2023,0.895
+Philippines,PHL,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2023,0.833333333333333
+Philippines,PHL,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2023,1.0
+Philippines,PHL,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2023,1.0
+Philippines,PHL,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2023,0.491
+Philippines,PHL,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2023,1.0
+Philippines,PHL,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2023,0.65
+Philippines,PHL,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2023,1.0
+Philippines,PHL,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2023,1.0
+Philippines,PHL,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2023,0.491
+Philippines,PHL,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2023,1.0
+Philippines,PHL,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2023,0.75
+Philippines,PHL,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2023,1.0
+Philippines,PHL,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2023,1.0
+Philippines,PHL,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2023,0.5
+Philippines,PHL,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2023,0.833
+Philippines,PHL,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2023,0.857
+Philippines,PHL,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2023,0.933
+Philippines,PHL,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2023,0.8
+Philippines,PHL,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2023,0.84
+Philippines,PHL,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2023,1.0
+Philippines,PHL,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2023,0.75
+Philippines,PHL,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2023,0.857
+Philippines,PHL,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2023,0.944
+Philippines,PHL,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2023,0.875
+Philippines,PHL,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2023,0.7
+Philippines,PHL,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2023,1.0
+Philippines,PHL,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2023,1.0
+Philippines,PHL,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2023,1.0
+Philippines,PHL,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2023,1.0
+Philippines,PHL,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2023,1.0
+Philippines,PHL,NADA metadata,SPI.D2.4.NADA,2023,1.0
+Philippines,PHL,National Accounts base year,SPI.D5.2.2.NABY,2023,0.5
+Philippines,PHL,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2023,0.78
+Philippines,PHL,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2023,100.0
+Philippines,PHL,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2023,92.6666666666667
+Philippines,PHL,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2023,85.24375
+Philippines,PHL,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2023,83.1083333333333
+Philippines,PHL,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2023,65.0
+Philippines,PHL,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2023,1.0
+Philippines,PHL,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2023,1.0
+Philippines,PHL,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2023,1.0
+Philippines,PHL,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2023,1.0
+Philippines,PHL,SPI Overall Score,SPI.INDEX,2023,85.20375
+Philippines,PHL,System of national accounts in use,SPI.D5.2.1.SNAU,2023,1.0
+Nigeria,NGA,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2023,0.5
+Nigeria,NGA,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2023,1.0
+Nigeria,NGA,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2023,0.5
+Nigeria,NGA,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2023,1.0
+Nigeria,NGA,Business process,SPI.D5.2.10.GSBP,2023,0.0
+Nigeria,NGA,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2023,0.0
+Nigeria,NGA,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2023,0.0
+Nigeria,NGA,Central government accounting status,SPI.D5.2.7.CGOV,2023,0.0
+Nigeria,NGA,Classification of household consumption,SPI.D5.2.5.HOUS,2023,1.0
+Nigeria,NGA,Classification of national industry,SPI.D5.2.3.CNIN,2023,1.0
+Nigeria,NGA,Classification of status of employment,SPI.D5.2.6.EMPL,2023,1.0
+Nigeria,NGA,Compilation of government finance statistics,SPI.D5.2.8.FINA,2023,0.0
+Nigeria,NGA,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2023,1.0
+Nigeria,NGA,CPI base year,SPI.D5.2.4.CPIBY,2023,0.0
+Nigeria,NGA,CRVS (WDI),SPI.D4.2.3.CRVS,2023,0.0
+Nigeria,NGA,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2023,0.8
+Nigeria,NGA,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2023,0.5
+Nigeria,NGA,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2023,0.415
+Nigeria,NGA,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2023,0.336
+Nigeria,NGA,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2023,0.393
+Nigeria,NGA,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2023,0.481
+Nigeria,NGA,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2023,0.867
+Nigeria,NGA,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2023,0.0
+Nigeria,NGA,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2023,1.0
+Nigeria,NGA,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2023,0.736666666666667
+Nigeria,NGA,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2023,0.874
+Nigeria,NGA,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2023,0.4165
+Nigeria,NGA,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2023,0.795
+Nigeria,NGA,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2023,0.333333333333333
+Nigeria,NGA,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2023,0.734
+Nigeria,NGA,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2023,0.0
+Nigeria,NGA,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2023,0.337
+Nigeria,NGA,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2023,1.0
+Nigeria,NGA,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2023,0.5
+Nigeria,NGA,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2023,0.0
+Nigeria,NGA,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2023,0.0
+Nigeria,NGA,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2023,0.337
+Nigeria,NGA,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2023,0.4
+Nigeria,NGA,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2023,0.875
+Nigeria,NGA,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2023,0.75
+Nigeria,NGA,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2023,1.0
+Nigeria,NGA,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2023,0.0
+Nigeria,NGA,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2023,0.833
+Nigeria,NGA,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2023,0.857
+Nigeria,NGA,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2023,0.733
+Nigeria,NGA,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2023,0.8
+Nigeria,NGA,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2023,0.72
+Nigeria,NGA,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2023,0.5
+Nigeria,NGA,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2023,1.0
+Nigeria,NGA,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2023,1.0
+Nigeria,NGA,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2023,0.944
+Nigeria,NGA,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2023,0.875
+Nigeria,NGA,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2023,0.8
+Nigeria,NGA,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2023,1.0
+Nigeria,NGA,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2023,1.0
+Nigeria,NGA,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2023,0.5
+Nigeria,NGA,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2023,0.67
+Nigeria,NGA,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2023,1.0
+Nigeria,NGA,NADA metadata,SPI.D2.4.NADA,2023,1.0
+Nigeria,NGA,National Accounts base year,SPI.D5.2.2.NABY,2023,0.0
+Nigeria,NGA,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2023,0.415
+Nigeria,NGA,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2023,80.0
+Nigeria,NGA,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2023,63.8333333333333
+Nigeria,NGA,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2023,75.54375
+Nigeria,NGA,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2023,35.1083333333333
+Nigeria,NGA,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2023,50.0
+Nigeria,NGA,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2023,0.5
+Nigeria,NGA,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2023,1.0
+Nigeria,NGA,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2023,1.0
+Nigeria,NGA,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2023,0.5
+Nigeria,NGA,SPI Overall Score,SPI.INDEX,2023,60.8970833333333
+Nigeria,NGA,System of national accounts in use,SPI.D5.2.1.SNAU,2023,1.0
+Kenya,KEN,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2023,1.0
+Kenya,KEN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2023,0.67
+Kenya,KEN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2023,1.0
+Kenya,KEN,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2023,1.0
+Kenya,KEN,Business process,SPI.D5.2.10.GSBP,2023,0.0
+Kenya,KEN,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2023,1.0
+Kenya,KEN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2023,0.0
+Kenya,KEN,Central government accounting status,SPI.D5.2.7.CGOV,2023,1.0
+Kenya,KEN,Classification of household consumption,SPI.D5.2.5.HOUS,2023,1.0
+Kenya,KEN,Classification of national industry,SPI.D5.2.3.CNIN,2023,0.5
+Kenya,KEN,Classification of status of employment,SPI.D5.2.6.EMPL,2023,1.0
+Kenya,KEN,Compilation of government finance statistics,SPI.D5.2.8.FINA,2023,0.5
+Kenya,KEN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2023,1.0
+Kenya,KEN,CPI base year,SPI.D5.2.4.CPIBY,2023,0.5
+Kenya,KEN,CRVS (WDI),SPI.D4.2.3.CRVS,2023,0.0
+Kenya,KEN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2023,0.9
+Kenya,KEN,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2023,0.5
+Kenya,KEN,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2023,0.37
+Kenya,KEN,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2023,0.2
+Kenya,KEN,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2023,0.117
+Kenya,KEN,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2023,0.533
+Kenya,KEN,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2023,1.0
+Kenya,KEN,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2023,0.0
+Kenya,KEN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2023,1.0
+Kenya,KEN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2023,0.8445
+Kenya,KEN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2023,0.899
+Kenya,KEN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2023,0.625
+Kenya,KEN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2023,0.895
+Kenya,KEN,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2023,1.0
+Kenya,KEN,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2023,0.534
+Kenya,KEN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2023,0.0
+Kenya,KEN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2023,0.325
+Kenya,KEN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2023,1.0
+Kenya,KEN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2023,0.7
+Kenya,KEN,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2023,0.0
+Kenya,KEN,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2023,0.0
+Kenya,KEN,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2023,0.325
+Kenya,KEN,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2023,0.8
+Kenya,KEN,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2023,0.875
+Kenya,KEN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2023,1.0
+Kenya,KEN,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2023,0.8
+Kenya,KEN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2023,0.5
+Kenya,KEN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2023,0.75
+Kenya,KEN,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2023,0.857
+Kenya,KEN,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2023,0.933
+Kenya,KEN,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2023,0.8
+Kenya,KEN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2023,0.8
+Kenya,KEN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2023,0.667
+Kenya,KEN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2023,1.0
+Kenya,KEN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2023,1.0
+Kenya,KEN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2023,0.944
+Kenya,KEN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2023,0.875
+Kenya,KEN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2023,0.9
+Kenya,KEN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2023,1.0
+Kenya,KEN,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2023,1.0
+Kenya,KEN,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2023,0.5
+Kenya,KEN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2023,0.0
+Kenya,KEN,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2023,1.0
+Kenya,KEN,NADA metadata,SPI.D2.4.NADA,2023,1.0
+Kenya,KEN,National Accounts base year,SPI.D5.2.2.NABY,2023,0.5
+Kenya,KEN,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2023,0.37
+Kenya,KEN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2023,90.0
+Kenya,KEN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2023,62.3333333333333
+Kenya,KEN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2023,84.38125
+Kenya,KEN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2023,46.475
+Kenya,KEN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2023,70.0
+Kenya,KEN,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2023,1.0
+Kenya,KEN,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2023,1.0
+Kenya,KEN,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2023,1.0
+Kenya,KEN,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2023,0.5
+Kenya,KEN,SPI Overall Score,SPI.INDEX,2023,70.6379166666667
+Kenya,KEN,System of national accounts in use,SPI.D5.2.1.SNAU,2023,1.0
+India,IND,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2023,1.0
+India,IND,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2023,0.33
+India,IND,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2023,0.0
+India,IND,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2023,1.0
+India,IND,Business process,SPI.D5.2.10.GSBP,2023,1.0
+India,IND,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2023,1.0
+India,IND,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2023,1.0
+India,IND,Central government accounting status,SPI.D5.2.7.CGOV,2023,0.0
+India,IND,Classification of household consumption,SPI.D5.2.5.HOUS,2023,0.0
+India,IND,Classification of national industry,SPI.D5.2.3.CNIN,2023,0.5
+India,IND,Classification of status of employment,SPI.D5.2.6.EMPL,2023,1.0
+India,IND,Compilation of government finance statistics,SPI.D5.2.8.FINA,2023,1.0
+India,IND,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2023,0.0
+India,IND,CPI base year,SPI.D5.2.4.CPIBY,2023,0.0
+India,IND,CRVS (WDI),SPI.D4.2.3.CRVS,2023,1.0
+India,IND,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2023,0.8
+India,IND,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2023,1.0
+India,IND,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2023,0.632
+India,IND,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2023,0.45
+India,IND,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2023,0.817
+India,IND,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2023,0.59
+India,IND,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2023,0.967
+India,IND,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2023,0.336
+India,IND,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2023,1.0
+India,IND,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2023,0.776166666666667
+India,IND,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2023,0.949
+India,IND,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2023,0.6665
+India,IND,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2023,0.9
+India,IND,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2023,0.833333333333333
+India,IND,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2023,0.666
+India,IND,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2023,1.0
+India,IND,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2023,0.346
+India,IND,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2023,1.0
+India,IND,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2023,0.45
+India,IND,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2023,0.0
+India,IND,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2023,0.0
+India,IND,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2023,0.346
+India,IND,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2023,0.8
+India,IND,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2023,0.875
+India,IND,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2023,1.0
+India,IND,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2023,1.0
+India,IND,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2023,0.5
+India,IND,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2023,0.833
+India,IND,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2023,1.0
+India,IND,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2023,0.8
+India,IND,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2023,0.8
+India,IND,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2023,0.76
+India,IND,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2023,0.833
+India,IND,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2023,0.75
+India,IND,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2023,0.714
+India,IND,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2023,0.944
+India,IND,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2023,0.875
+India,IND,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2023,1.0
+India,IND,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2023,1.0
+India,IND,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2023,0.0
+India,IND,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2023,1.0
+India,IND,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2023,1.0
+India,IND,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2023,1.0
+India,IND,NADA metadata,SPI.D2.4.NADA,2023,1.0
+India,IND,National Accounts base year,SPI.D5.2.2.NABY,2023,0.0
+India,IND,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2023,0.632
+India,IND,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2023,80.0
+India,IND,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2023,87.7333333333333
+India,IND,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2023,84.275
+India,IND,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2023,71.1333333333333
+India,IND,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2023,45.0
+India,IND,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2023,0.5
+India,IND,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2023,1.0
+India,IND,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2023,1.0
+India,IND,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2023,1.0
+India,IND,SPI Overall Score,SPI.INDEX,2023,73.6283333333333
+India,IND,System of national accounts in use,SPI.D5.2.1.SNAU,2023,1.0
+Germany,DEU,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2023,1.0
+Germany,DEU,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2023,1.0
+Germany,DEU,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2023,1.0
+Germany,DEU,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2023,1.0
+Germany,DEU,Business process,SPI.D5.2.10.GSBP,2023,1.0
+Germany,DEU,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2023,1.0
+Germany,DEU,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2023,1.0
+Germany,DEU,Central government accounting status,SPI.D5.2.7.CGOV,2023,1.0
+Germany,DEU,Classification of household consumption,SPI.D5.2.5.HOUS,2023,1.0
+Germany,DEU,Classification of national industry,SPI.D5.2.3.CNIN,2023,1.0
+Germany,DEU,Classification of status of employment,SPI.D5.2.6.EMPL,2023,1.0
+Germany,DEU,Compilation of government finance statistics,SPI.D5.2.8.FINA,2023,1.0
+Germany,DEU,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2023,1.0
+Germany,DEU,CPI base year,SPI.D5.2.4.CPIBY,2023,0.5
+Germany,DEU,CRVS (WDI),SPI.D4.2.3.CRVS,2023,1.0
+Germany,DEU,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2023,1.0
+Germany,DEU,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2023,1.0
+Germany,DEU,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2023,0.846
+Germany,DEU,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2023,0.745
+Germany,DEU,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2023,1.0
+Germany,DEU,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2023,0.548
+Germany,DEU,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2023,1.0
+Germany,DEU,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2023,0.936
+Germany,DEU,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2023,1.0
+Germany,DEU,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2023,0.8245
+Germany,DEU,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2023,0.9305
+Germany,DEU,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2023,0.6665
+Germany,DEU,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2023,0.9335
+Germany,DEU,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2023,1.0
+Germany,DEU,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2023,1.0
+Germany,DEU,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2023,1.0
+Germany,DEU,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2023,0.467
+Germany,DEU,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2023,1.0
+Germany,DEU,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2023,0.95
+Germany,DEU,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2023,1.0
+Germany,DEU,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2023,1.0
+Germany,DEU,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2023,0.467
+Germany,DEU,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2023,0.8
+Germany,DEU,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2023,1.0
+Germany,DEU,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2023,0.75
+Germany,DEU,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2023,1.0
+Germany,DEU,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2023,0.5
+Germany,DEU,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2023,0.833
+Germany,DEU,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2023,1.0
+Germany,DEU,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2023,0.867
+Germany,DEU,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2023,0.7
+Germany,DEU,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2023,0.84
+Germany,DEU,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2023,1.0
+Germany,DEU,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2023,0.75
+Germany,DEU,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2023,0.857
+Germany,DEU,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2023,0.833
+Germany,DEU,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2023,1.0
+Germany,DEU,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2023,1.0
+Germany,DEU,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2023,1.0
+Germany,DEU,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2023,1.0
+Germany,DEU,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2023,1.0
+Germany,DEU,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2023,1.0
+Germany,DEU,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2023,1.0
+Germany,DEU,NADA metadata,SPI.D2.4.NADA,2023,1.0
+Germany,DEU,National Accounts base year,SPI.D5.2.2.NABY,2023,1.0
+Germany,DEU,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2023,0.846
+Germany,DEU,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2023,100.0
+Germany,DEU,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2023,94.8666666666667
+Germany,DEU,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2023,85.8125
+Germany,DEU,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2023,86.675
+Germany,DEU,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2023,95.0
+Germany,DEU,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2023,1.0
+Germany,DEU,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2023,1.0
+Germany,DEU,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2023,1.0
+Germany,DEU,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2023,1.0
+Germany,DEU,SPI Overall Score,SPI.INDEX,2023,92.4708333333334
+Germany,DEU,System of national accounts in use,SPI.D5.2.1.SNAU,2023,1.0
+Canada,CAN,Agriculture census (Availability score over 20 years),SPI.D4.1.2.AGRI,2023,1.0
+Canada,CAN,Agriculture survey (Availability score over 10 years),SPI.D4.1.5.AGSVY,2023,1.0
+Canada,CAN,Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI.D1.5.POV,2023,1.0
+Canada,CAN,"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI.D1.5.CHLD.MORT,2023,1.0
+Canada,CAN,Business process,SPI.D5.2.10.GSBP,2023,1.0
+Canada,CAN,Business/establishment census (Availability score over 20 years),SPI.D4.1.3.BIZZ,2023,1.0
+Canada,CAN,Business/establishment survey (Availability score over 10 years),SPI.D4.1.8.BZSVY,2023,1.0
+Canada,CAN,Central government accounting status,SPI.D5.2.7.CGOV,2023,1.0
+Canada,CAN,Classification of household consumption,SPI.D5.2.5.HOUS,2023,1.0
+Canada,CAN,Classification of national industry,SPI.D5.2.3.CNIN,2023,1.0
+Canada,CAN,Classification of status of employment,SPI.D5.2.6.EMPL,2023,1.0
+Canada,CAN,Compilation of government finance statistics,SPI.D5.2.8.FINA,2023,1.0
+Canada,CAN,Compilation of monetary and financial statistics,SPI.D5.2.9.MONY,2023,1.0
+Canada,CAN,CPI base year,SPI.D5.2.4.CPIBY,2023,1.0
+Canada,CAN,CRVS (WDI),SPI.D4.2.3.CRVS,2023,1.0
+Canada,CAN,Dimension 1.5: Data use by international organizations,SPI.DIM1.5.INDEX,2023,1.0
+Canada,CAN,Dimension 2.1: Data Releases,SPI.DIM2.1.INDEX,2023,1.0
+Canada,CAN,Dimension 2.2: Online access,SPI.DIM2.2.INDEX,2023,0.782
+Canada,CAN,Dimension 2.2: Online access - Download Options Score,SPI.D2.2.Download.options,2023,0.636
+Canada,CAN,Dimension 2.2: Online access - Machine Readability Score,SPI.D2.2.Machine.readable,2023,0.9
+Canada,CAN,Dimension 2.2: Online access - Metadata Available Score,SPI.D2.2.Metadata.available,2023,0.893
+Canada,CAN,Dimension 2.2: Online access - Non-Proprietary format Score,SPI.D2.2.Non.proprietary,2023,1.0
+Canada,CAN,Dimension 2.2: Online access - Terms of Use Score,SPI.D2.2.Terms.of.use,2023,0.483
+Canada,CAN,Dimension 2.4: Data services,SPI.DIM2.4.INDEX,2023,1.0
+Canada,CAN,Dimension 3.1: Social Statistics,SPI.DIM3.1.INDEX,2023,0.836666666666667
+Canada,CAN,Dimension 3.2: Economic Statistics,SPI.DIM3.2.INDEX,2023,0.913833333333333
+Canada,CAN,Dimension 3.3: Environmental Statistics,SPI.DIM3.3.INDEX,2023,0.6665
+Canada,CAN,Dimension 3.4: Institutional Statistics,SPI.DIM3.4.INDEX,2023,0.862
+Canada,CAN,Dimension 4.1: Censuses and Surveys - Censuses only,SPI.DIM4.1.CEN.INDEX,2023,1.0
+Canada,CAN,Dimension 4.1: Censuses and Surveys - Surveys only,SPI.DIM4.1.SVY.INDEX,2023,1.0
+Canada,CAN,Dimension 4.2: Administrative Data,SPI.DIM4.2.INDEX,2023,1.0
+Canada,CAN,Dimension 4.3: Geospatial Data,SPI.DIM4.3.INDEX,2023,0.593
+Canada,CAN,Dimension 5.1: Legislation and governance,SPI.DIM5.1.INDEX,2023,1.0
+Canada,CAN,Dimension 5.2: Standards and Methods,SPI.DIM5.2.INDEX,2023,1.0
+Canada,CAN,Dimension 5.5: Finance,SPI.DIM5.5.INDEX,2023,1.0
+Canada,CAN,Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI.D5.5.DIFI,2023,1.0
+Canada,CAN,Geospatial data available at 1st Admin Level,SPI.D4.3.GEO.first.admin.level,2023,0.593
+Canada,CAN,GOAL 1: No Poverty (5 year moving average),SPI.D3.1.POV,2023,0.8
+Canada,CAN,GOAL 10: Reduced Inequality (5 year moving average),SPI.D3.10.NEQL,2023,1.0
+Canada,CAN,GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI.D3.11.CITY,2023,0.75
+Canada,CAN,GOAL 12: Responsible Consumption and Production (5 year moving average),SPI.D3.12.CNSP,2023,1.0
+Canada,CAN,GOAL 13: Climate Action (5 year moving average),SPI.D3.13.CLMT,2023,0.5
+Canada,CAN,GOAL 15: Life on Land (5 year moving average),SPI.D3.15.LAND,2023,0.833
+Canada,CAN,GOAL 16: Peace and Justice Strong Institutions (5 year moving average),SPI.D3.16.INST,2023,0.857
+Canada,CAN,GOAL 17: Partnerships to achieve the Goal (5 year moving average),SPI.D3.17.PTNS,2023,0.867
+Canada,CAN,GOAL 2: Zero Hunger (5 year moving average),SPI.D3.2.HNGR,2023,0.9
+Canada,CAN,GOAL 3: Good Health and Well-being (5 year moving average),SPI.D3.3.HLTH,2023,0.88
+Canada,CAN,GOAL 4: Quality Education (5 year moving average),SPI.D3.4.EDUC,2023,0.833
+Canada,CAN,GOAL 5: Gender Equality (5 year moving average),SPI.D3.5.GEND,2023,0.75
+Canada,CAN,GOAL 6: Clean Water and Sanitation (5 year moving average),SPI.D3.6.WTRS,2023,0.857
+Canada,CAN,GOAL 7: Affordable and Clean Energy (5 year moving average),SPI.D3.7.ENRG,2023,0.833
+Canada,CAN,GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI.D3.8.WORK,2023,1.0
+Canada,CAN,"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI.D3.9.INDY,2023,0.9
+Canada,CAN,Health/Demographic survey (Availability score over 10 years),SPI.D4.1.7.HLTH,2023,1.0
+Canada,CAN,"Household Survey on income, etc  (Availability score over 10 years)",SPI.D4.1.4.HOUS,2023,1.0
+Canada,CAN,Labor force participation rate by sex and age (%),SPI.D1.5.LFP,2023,1.0
+Canada,CAN,Labor Force Survey (Availability score over 10 years),SPI.D4.1.6.LABR,2023,1.0
+Canada,CAN,Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI.D5.1.DILG,2023,1.0
+Canada,CAN,NADA metadata,SPI.D2.4.NADA,2023,1.0
+Canada,CAN,National Accounts base year,SPI.D5.2.2.NABY,2023,1.0
+Canada,CAN,ODIN Open Data Openness score,SPI.D2.2.Openness.subscore,2023,0.782
+Canada,CAN,Pillar 1 - Data Use - Score,SPI.INDEX.PIL1,2023,100.0
+Canada,CAN,Pillar 2 - Data Services - Score,SPI.INDEX.PIL2,2023,92.7333333333333
+Canada,CAN,Pillar 3 - Data Products - Score,SPI.INDEX.PIL3,2023,84.75
+Canada,CAN,Pillar 4 - Data Sources - Score,SPI.INDEX.PIL4,2023,89.825
+Canada,CAN,Pillar 5 - Data Infrastructure - Score,SPI.INDEX.PIL5,2023,100.0
+Canada,CAN,Population & Housing census (Availability score over 20 years),SPI.D4.1.1.POPU,2023,1.0
+Canada,CAN,Quality of Debt service data according to World Bank,SPI.D1.5.DT.TDS.DPPF.XP.ZS,2023,1.0
+Canada,CAN,Safely Managed Drinking Water,SPI.D1.5.SAFE.MAN.WATER,2023,1.0
+Canada,CAN,SDDS/e-GDDS subscription,SPI.D2.1.GDDS,2023,1.0
+Canada,CAN,SPI Overall Score,SPI.INDEX,2023,93.4616666666667
+Canada,CAN,System of national accounts in use,SPI.D5.2.1.SNAU,2023,1.0
