@@ -17,7 +17,7 @@ This week, our team focused on setting up and implementing the database in SQLit
 | Team Member | Tasks Completed                                                                 | Challenges Faced                                                   | Hours Spent |
 |-------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|-------------|
 | **Rithvik** | - Created and tested SQL scripts for database creation<br> - Populated tables using collected datasets<br> - Wrote initial SQL queries to retrieve data | - Mapping dataset columns to table schema needed adjustments<br> - Initial setup issues with data import | 10          |
-| **Sachi**   | - Reviewed and refined SQL scripts<br> - Assisted with data validation queries<br> -Assisted with importing datasets to sqlite,making sure databse schemas were rightly constructed Organized the project folder structure | - Encountered inconsistencies in dataset formats<br> -  | 9           |
+| **Sachi**   | - Reviewed and refined SQL scripts<br> - Assisted with data validation queries<br> -Assisted with importing datasets to sqlite,making sure databse schemas were rightly constructed Organized the project folder structure,drew and designed the updated ERD Model for the datasets| - Encountered inconsistencies in dataset formats<br> -  | 9           |
 | **Manogna**| - Evaluated Python scripts for data cleaning<br> - Compared pre-cleaning and post-cleaning datasets<br> - Provided insights on data cleaning strategies | - Balancing dataset differences between raw and cleaned files<br> - Aligning dataset columns with ERD requirements | 11          |
 
 ---
